@@ -78,15 +78,3 @@ Follow the prompts to set a password for the admin user and accept the license a
 6. Once logged in, you can configure data inputs, search data, and create dashboards to monitor and analyze your data.
 
 Please note that this is a basic setup. For production environments or more complex setups, additional configurations and security measures are necessary. Always refer to the official Splunk documentation for detailed instructions and best practices.
-
-</p>
-<img src="https://i.imgur.com/GgbbBaU.png" alt="Splunk - Snort Event Summary/>
-<i>Splunk - Snort Event Summary</i>
-</p>
-
-**Contributions are more than Welcome**
-
-I encourage contributions, feedback, and collaboration from the community. If you have suggestions, improvements, or questions, please feel free to open issues or submit pull requests.
-
-Thank you,</br>
-Lucas
