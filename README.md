@@ -80,7 +80,7 @@ Follow the prompts to set a password for the admin user and accept the license a
 Please note that this is a basic setup. For production environments or more complex setups, additional configurations and security measures are necessary. Always refer to the official Splunk documentation for detailed instructions and best practices.
 
 </p>
-<img src="https://i.imgur.com/GgbbBaU.png" alt="Splunk - Snort Event Summary/>
+<img src="https://i.imgur.com/GgbbBaU.png" alt="Splunk - Snort Event Summary"/>
 <i>Splunk - Snort Event Summary</i>
 </p>
 
